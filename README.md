@@ -42,7 +42,7 @@ It runs ** `.gb` `.gbc`  ROM files from the SD**.
 
 ### 2. Get the code
 ```bash
-git clone https://github.com/bmorcelli/Cardputer-GameStation.git
+git clone https://github.com/eghor2005/Cardputer-Game-Boy-Color.git
 ```
 Then open the cloned folder in VS Code.
 
