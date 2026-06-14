@@ -1,4 +1,5 @@
-# Cardputer Game Station
+# Cardputer-Game-Boy-Color
+
 
 
 ![The finished device (close)](images/1.JPG)
