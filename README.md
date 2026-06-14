@@ -10,6 +10,33 @@ It runs ** `.gb` `.gbc`  ROM files from the SD**.
 
 > **Make sure your ROMs are uncompressed** (not .zip, .7z, or .rar).
 
+# Hardware Requirements
+
+- M5Stack Cardputer-Adv (ESP32-S3)  
+- 2.8" ILI9341 SPI Display Module (320x240)  
+- SD Card (FAT32) with ZX Spectrum games  
+
+# Wiring: Cardputer-Adv EXT Connector → ILI9341
+
+| ILI9341 Pin | EXT Pin | GPIO | Description    |
+|---|---|---|---|
+| VCC    | PIN 15  | -    | 3.3V Power    |
+| GND    | PIN 11  | -    | Ground    |
+| CS    | PIN 13  | G5    | Chip Select    |
+| RST/RESET   | PIN 1   | G3    | Reset    |
+| DC/RS    | PIN 5   | G6    | Data/Command    |
+| SDI/MOSI    | PIN 9   | G14   | SPI Data In    |
+| SCK/CLK    | PIN 7   | G40   | SPI Clock    |
+| LED/BLK    | -    | -    | Backlight (connect to VCC or use PWM) |
+| SDO/MISO    | -    | -    | Not used    |
+
+**Note:** The display and SD card share the SPI bus (SPI3_HOST). SD card CS is on GPIO 12.
+
+
+
+
+
+
 ## Controls
 
 The built-in **Cardputer keyboard** is used for all controls: 
