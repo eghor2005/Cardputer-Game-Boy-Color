@@ -3,7 +3,7 @@
 
 ![The finished device (close)](images/DSC03951.JPG)
 ![The finished device (open)](images/DSC03950.JPG)
-![Examples of the games](images/gbc_emulator_s.jpg)
+![Examples of the games](images/MyCollages.jpg)
 
 
 It runs ** `.gb` `.gbc`  ROM files from the SD**.
