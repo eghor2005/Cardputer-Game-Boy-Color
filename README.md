@@ -24,8 +24,8 @@ It runs ** `.gb` `.gbc`  ROM files from the SD**.
 
 - M5Stack Cardputer-Adv (ESP32-S3)  
 - 2.8" ILI9341 SPI Display Module (320x240)  
-- SD Card (FAT32) with ZX Spectrum games  
-
+- SD Card (FAT32) with ZX Spectrum games
+- Some special details (https://makerworld.com/ru/models/2795834-cardputer-adv-xl-external-2-8-display-mod#profileId-3109591)
 # Wiring: Cardputer-Adv EXT Connector → ILI9341
 
 | ILI9341 Pin | EXT Pin | GPIO | Description    |
