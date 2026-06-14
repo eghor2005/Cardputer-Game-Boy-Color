@@ -1,11 +1,9 @@
 # Cardputer Game Station
 
-![NES emulator screen captures on the M5Stack Cardputer](images/nes_emulator_s.jpg)
-![GBC emulator screen captures on the M5Stack Cardputer](images/gbc_emulator_s.jpg)
-![SMS emulator screen captures on the M5Stack Cardputer](images/sms_emulator_s.jpg)
-![NGP emulator screen captures on the M5Stack Cardputer](images/ngp_emulator_s.jpg)
-![Megadrive emulator screen captures on the M5Stack Cardputer](images/megadrive_emulator_s.jpg)
 
+![The finished device (close)](images/nes_emulator_s.jpg)
+![The finished device (open)](images/nes_emulator_s.jpg)
+![Examples of the games](images/gbc_emulator_s.jpg)
 
 
 It runs ** `.gb` `.gbc`  ROM files from the SD**.
