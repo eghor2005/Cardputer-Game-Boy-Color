@@ -1,8 +1,8 @@
 # Cardputer Game Station
 
 
-![The finished device (close)](images/nes_emulator_s.jpg)
-![The finished device (open)](images/nes_emulator_s.jpg)
+![The finished device (close)](images/DSC03950.JPG)
+![The finished device (open)](images/DSC03951.JPG.)
 ![Examples of the games](images/gbc_emulator_s.jpg)
 
 
