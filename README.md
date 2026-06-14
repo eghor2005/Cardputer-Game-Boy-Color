@@ -7,6 +7,15 @@
 ![Examples of the games](images/MyCollages.jpg)
 
 
+> **This is a merge (intertwining) of two repositories:**  
+> https://github.com/geo-tp/Cardputer-Game-Station-Emulators/tree/xip_load  
+> and  
+> https://github.com/AndyAiCardputer/zx-spectrum-cardputer-ili9341/tree/main  
+> **with emulation support for GAMEBOY and GAMEBOY COLOR only.**
+
+
+
+
 It runs ** `.gb` `.gbc`  ROM files from the SD**.
 
 > **Make sure your ROMs are uncompressed** (not .zip, .7z, or .rar).
