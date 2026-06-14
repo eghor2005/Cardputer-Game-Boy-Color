@@ -34,6 +34,45 @@ It runs ** `.gb` `.gbc`  ROM files from the SD**.
 **Note:** The display and SD card share the SPI bus (SPI3_HOST). SD card CS is on GPIO 12.
 
 
+## 🛠️ Build & Upload via VS Code + PlatformIO
+
+### 1. Install Requirements
+- **Visual Studio Code**
+- **PlatformIO IDE** extension (install from VS Code marketplace)
+
+### 2. Get the code
+```bash
+git clone https://github.com/bmorcelli/Cardputer-GameStation.git
+```
+Then open the cloned folder in VS Code.
+
+### 3. Build the firmware
+- In the **PlatformIO toolbar** (blue bar at the bottom), click the **`✓` (checkmark)** icon
+- Or run in terminal:
+```bash
+pio run
+```
+
+### 4. Upload to Cardputer
+1. Connect your **M5Stack Cardputer** via USB
+2. Click the **`→` (right arrow)** icon in the PlatformIO toolbar
+3. Or run:
+```bash
+pio run --target upload
+```
+
+### 5. Monitor (optional)
+Click the **`⤒` (plug)** icon to view serial output.
+
+---
+
+
+
+
+
+
+
+
 
 
 
